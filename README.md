@@ -1,7 +1,3 @@
-Sure, here's a template for a README file for your GitHub repository based on the project from the Udemy course "Microsoft Power BI - Up & Running with Power BI Desktop":
-
----
-
 # Microsoft Power BI - Up & Running with Power BI Desktop
 
 This repository contains the project files and resources for the course "Microsoft Power BI - Up & Running with Power BI Desktop" offered on Udemy.
