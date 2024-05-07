@@ -44,7 +44,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-Special thanks to [Instructor Name] for creating the "Microsoft Power BI - Up & Running with Power BI Desktop" course on Udemy.
+Special thanks to Chris Dutton for creating the "Microsoft Power BI - Up & Running with Power BI Desktop" course on Udemy.
 
 ---
 
