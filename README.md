@@ -1,10 +1,8 @@
-# Microsoft Power BI - Up & Running with Power BI Desktop
+# AdventureWorks Dashboard
 
 This repository contains the project files and resources for the course "Microsoft Power BI - Up & Running with Power BI Desktop" offered on Udemy.
 
-## Course Description
-
-This course is designed to provide a comprehensive introduction to Microsoft Power BI and its capabilities. You will learn how to use Power BI Desktop to create impactful visualizations and reports from various data sources. Topics covered include:
+## Motive
 
 - Understanding the Power BI ecosystem
 - Importing data into Power BI Desktop
@@ -14,9 +12,7 @@ This course is designed to provide a comprehensive introduction to Microsoft Pow
 - Sharing and collaborating on reports
 - And much more!
 
-## Course Project
-
-The course project included in this repository serves as a hands-on demonstration of the concepts covered in the course. It includes:
+The project included in this repository serves as a hands-on demonstration of:
 
 - Sample datasets
 - Power BI Desktop files (.pbix)
