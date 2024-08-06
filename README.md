@@ -25,8 +25,7 @@ To get started with the course project:
 
 1. Clone or download this repository to your local machine.
 2. Open the `.pbix` files using Power BI Desktop.
-3. Follow along with the course lessons to recreate the visualizations and reports.
-4. Explore and customize the project to suit your needs.
+3. Explore and customize the project to suit your needs.
 
 ## Prerequisites
 
