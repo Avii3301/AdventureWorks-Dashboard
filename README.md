@@ -48,4 +48,4 @@ Special thanks to Chris Dutton for creating the "Microsoft Power BI - Up & Runni
 
 ---
 
-Feel free to customize this template further to better suit your needs or add any additional sections that you think would be helpful for users of your repository.
+Feel free to customize this further to better suit your needs or add any additional features that you think would be helpful for you.
